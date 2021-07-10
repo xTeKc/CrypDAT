@@ -2,11 +2,11 @@ import requests
 import selenium
 
 
-fca = "fantom_contract_address"
+ftm_ca = "fantom_contract_address"
 
 
-def fantom_contract_address(fca):
+def fantom_contract_address(ftm_ca):
     input("Enter Fantom Contract Address: ")
 
 
-fantom_contract_address(fca)
+fantom_contract_address(ftm_ca)
