@@ -1,6 +1,6 @@
 import Blockchains.Binance as bnb
 import Blockchains.Cardano as ada
-import Blockchains.Ethereum
+import Blockchains.Ethereum as eth
 import Blockchains.Fantom
 import Blockchains.HarmonyShard
 import Blockchains.Huobi
