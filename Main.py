@@ -1,4 +1,4 @@
-import Blockchains.Binance
+import Blockchains.Binance as bnb
 import Blockchains.Cardano
 import Blockchains.Ethereum
 import Blockchains.Fantom
