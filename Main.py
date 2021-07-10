@@ -1,9 +1,9 @@
-import Binance
-import Cardano
-import Ethereum
-import Fantom
-import HarmonyShard
-import Huobi
-import Polygon
-import xDai
+import Blockchains.Binance
+import Blockchains.Cardano
+import Blockchains.Ethereum
+import Blockchains.Fantom
+import Blockchains.HarmonyShard
+import Blockchains.Huobi
+import Blockchains.Polygon
+import Blockchains.xDai
 
