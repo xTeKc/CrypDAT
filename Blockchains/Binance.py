@@ -2,11 +2,11 @@ import requests
 import selenium
 
 
-bnbca = "binance_contract_address"
+bnb_ca = "binance_contract_address"
 
 
-def bnb_contract_address(bnbca):
+def binance_contract_address(bnb_ca):
     input("Enter Binance Contract Address: ")
 
 
-bnb_contract_address(bnbca)
+binance_contract_address(bnb_ca)
