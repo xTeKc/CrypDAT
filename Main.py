@@ -4,6 +4,6 @@ import Blockchains.Ethereum as eth
 import Blockchains.Fantom as ftm
 import Blockchains.HarmonyShard as hs
 import Blockchains.Huobi as hu
-import Blockchains.Polygon
+import Blockchains.Polygon as poly
 import Blockchains.xDai
 
