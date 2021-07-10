@@ -2,11 +2,11 @@ import requests
 import selenium
 
 
-acs = "cardano_contract_address"
+ada_ca = "cardano_contract_address"
 
 
-def cardano_contract_address(acs):
+def cardano_contract_address(ada_ca):
     input("Enter Cardano Contract Address: ")
 
 
-cardano_contract_address(acs)
+cardano_contract_address(ada_ca)
