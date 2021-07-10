@@ -2,7 +2,7 @@ import Blockchains.Binance as bsc
 import Blockchains.Cardano as ada
 import Blockchains.Ethereum as eth
 import Blockchains.Fantom as ftm
-import Blockchains.HarmonyShard as hs
+import Blockchains.HarmonyShard as hs0
 import Blockchains.Huobi as hu
 import Blockchains.Polygon as poly
 import Blockchains.Solana as sol
