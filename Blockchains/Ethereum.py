@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-eth_ca = ETHEREUM_API_KEY
+eth_ca = config('ETHEREUM_API_KEY')
 
 
 def ethereum_contract_address(eth_ca):
