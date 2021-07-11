@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-huo_ca = HUOBI_API_KEY
+huo_ca = config('HUOBI_API_KEY')
 
 
 def huobi_contract_address(huo_ca):
