@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-eth_ca = "ethereum_contract_address"
+eth_ca = ETHEREUM_API_KEY
 
 
 def ethereum_contract_address(eth_ca):
