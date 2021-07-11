@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-bsc_ca = BINANCE_API_KEY
+bsc_ca = BSCSCAN_API_KEY
 
 
 def binance_contract_address(bsc_ca):
