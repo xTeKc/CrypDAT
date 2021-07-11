@@ -1,5 +1,8 @@
+import os
+import sys
 import requests
 import selenium
+
 
 
 bsc_ca = BSCSCAN_API_KEY
