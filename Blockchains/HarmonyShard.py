@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-hs0_ca = "harmony_shard_contract_address"
+hs0_ca = HARMONY_SHARD_API_KEY
 
 
 def harmony_shard_contract_address(hs0_ca):
