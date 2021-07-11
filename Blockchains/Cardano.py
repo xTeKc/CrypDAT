@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-ada_ca = CARDANO_API_KEY
+ada_ca = config('CARDANO_API_KEY')
 
 
 def cardano_contract_address(ada_ca):
