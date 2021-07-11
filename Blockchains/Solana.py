@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-sol_ca = SOLANA_API_KEY
+sol_ca = config('SOLANA_API_KEY')
 
 
 def solana_contract_address(sol_ca):
