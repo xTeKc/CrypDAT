@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 
 
 huo_ca = HUOBI_API_KEY
