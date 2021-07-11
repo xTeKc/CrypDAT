@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 import Blockchains.Binance as bsc
 import Blockchains.Cardano as ada
 import Blockchains.Ethereum as eth
