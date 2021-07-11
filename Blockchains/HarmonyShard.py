@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 
 
 hs0_ca = HARMONY_SHARD_API_KEY
