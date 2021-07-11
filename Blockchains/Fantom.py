@@ -2,7 +2,7 @@ import os
 import sys
 import requests
 import selenium
-
+from decouple import config
 
 ftm_ca = FANTOM_API_KEY
 
