@@ -4,6 +4,7 @@ import requests
 import selenium
 from decouple import config
 
+
 bsc_ca = config('BSCSCAN_API_KEY')
 
 
