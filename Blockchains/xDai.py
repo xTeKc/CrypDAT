@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-xdai_ca = "xdai_contract_address"
+xdai_ca = XDAI_API_KEY
 
 
 def xdai_contract_address(xdai_ca):
