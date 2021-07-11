@@ -1,3 +1,7 @@
+import os
+import sys
+import requests
+import selenium
 import Blockchains.Binance as bsc
 import Blockchains.Cardano as ada
 import Blockchains.Ethereum as eth
