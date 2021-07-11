@@ -2,10 +2,9 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 
-
-
-bsc_ca = BSCSCAN_API_KEY
+bsc_ca = config('BSCSCAN_API_KEY')
 
 
 def binance_contract_address(bsc_ca):
