@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 
 
 xdai_ca = XDAI_API_KEY
