@@ -2,7 +2,7 @@ import os
 import sys
 import requests
 import selenium
-
+from decouple import config
 
 poly_ca = POLYGON_API_KEY
 
