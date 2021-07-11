@@ -7,9 +7,13 @@ from decouple import config
 
 ftm_ca = config('FANTOM_API_KEY')
 
+ftm_search = input('Enter Fantom Contract Address: ')
 
-def fantom_contract_address(ftm_ca):
-    input("Enter Fantom Contract Address: ")
+response = requests.get(f'https://api.ftmscan.com/api?module=contract&action=getsourcecode&address={ftm_search}&apikey={ftm_ca}')
 
 
-fantom_contract_address(ftm_ca)
+def fantom_contract_address(ftm_ca, response):
+    print(response.json())
+
+
+fantom_contract_address(ftm_ca, response)
