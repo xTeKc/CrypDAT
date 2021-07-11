@@ -4,7 +4,8 @@ import requests
 import selenium
 from decouple import config
 
-ftm_ca = FANTOM_API_KEY
+
+ftm_ca = config('FANTOM_API_KEY')
 
 
 def fantom_contract_address(ftm_ca):
