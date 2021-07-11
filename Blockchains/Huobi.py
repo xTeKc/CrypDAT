@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-huo_ca = "huobi_contract_address"
+huo_ca = HUOBI_API_KEY
 
 
 def huobi_contract_address(huo_ca):
