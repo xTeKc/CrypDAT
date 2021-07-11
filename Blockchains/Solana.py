@@ -2,7 +2,7 @@ import requests
 import selenium
 
 
-sol_ca = "solana_contract_address"
+sol_ca = SOLANA_API_KEY
 
 
 def solana_contract_address(sol_ca):
