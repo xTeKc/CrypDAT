@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-xdai_ca = XDAI_API_KEY
+xdai_ca = config('XDAI_API_KEY')
 
 
 def xdai_contract_address(xdai_ca):
