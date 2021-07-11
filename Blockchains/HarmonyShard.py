@@ -5,7 +5,7 @@ import selenium
 from decouple import config
 
 
-hs0_ca = HARMONY_SHARD_API_KEY
+hs0_ca = config('HARMONY_SHARD_API_KEY')
 
 
 def harmony_shard_contract_address(hs0_ca):
