@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import selenium
+from decouple import config
 
 
 eth_ca = ETHEREUM_API_KEY
