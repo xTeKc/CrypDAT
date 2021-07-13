@@ -14,3 +14,6 @@
         + Polygon
         + Solana
         + xDai
+<br>
+
++ Each blockchain uses their unique API to retrieve the data
