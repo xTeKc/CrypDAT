@@ -2,10 +2,8 @@
 ---
 #### Multi Blockchain Contract Search
 
-<br>
-
 + Extracting smart contract source code from multiple blockchains
-    <br>
+    
     + ###### The blockchains implemented are:
         + Binance
         + Cardano
