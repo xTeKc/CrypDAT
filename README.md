@@ -13,7 +13,7 @@ The goal of this project is to get all data for any cryptocurrency on any blockc
 + Solana  
 + xDai
 
-##### Contract Languages Sorted:
+##### Contracts Sorted by Language:
 + Solidity
 + Plutus
 + Vyper
