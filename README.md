@@ -1,6 +1,6 @@
 ### Crypto DATA Grab.
 
-The goal of this project is to get all data for any cryptocurrency on any blockchain, including the smart contract source code with syntax highlighting. 
+The goal of this project is to get all data for any cryptocurrency on any blockchain, including the smart contract source code with syntax highlighting.
 
 ##### Blockchains Supported:
 + Cardano
@@ -13,7 +13,7 @@ The goal of this project is to get all data for any cryptocurrency on any blockc
 + Solana  
 + xDai
 
-##### Contract Languages:
+##### Contract Languages Sorted:
 + Solidity
 + Plutus
 + Vyper
