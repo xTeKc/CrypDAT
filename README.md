@@ -12,3 +12,8 @@ The goal of this project is to get all data for any cryptocurrency on any blockc
 + Polygon
 + Solana  
 + xDai
+
+##### Contract Languages:
++ Solidity
++ Plutus
++ Vyper
