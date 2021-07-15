@@ -23,3 +23,5 @@ export default function App() {
     );
   }
 }
+
+dotenv.config()
