@@ -25,3 +25,12 @@ export default function App() {
 }
 
 dotenv.config()
+
+function binance() {
+  
+}
+
+
+function cardano() {
+  
+}
