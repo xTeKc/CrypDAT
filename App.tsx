@@ -52,5 +52,10 @@ function harmonyShard() {
 
 
 function huobi() {
+
+}
+
+
+function polygon() {
   
 }
