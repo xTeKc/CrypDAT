@@ -37,5 +37,10 @@ function cardano() {
 
 
 function ethereum() {
+
+}
+
+
+function fantom() {
   
 }
