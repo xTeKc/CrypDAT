@@ -42,5 +42,10 @@ function ethereum() {
 
 
 function fantom() {
+
+}
+
+
+function harmonyShard() {
   
 }
