@@ -32,5 +32,10 @@ function binance() {
 
 
 function cardano() {
+
+}
+
+
+function ethereum() {
   
 }
