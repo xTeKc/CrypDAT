@@ -47,5 +47,10 @@ function fantom() {
 
 
 function harmonyShard() {
+
+}
+
+
+function huobi() {
   
 }
