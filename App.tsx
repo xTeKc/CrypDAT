@@ -57,5 +57,10 @@ function huobi() {
 
 
 function polygon() {
+
+}
+
+
+function solana() {
   
 }
