@@ -64,8 +64,8 @@ function huobi() {
 
 
 function polygon() {
-  let poly: String = 'POLYGON_API_KEY';
-  console.log(poly);
+  let poly_ca: String = 'POLYGON_API_KEY';
+  console.log(poly_ca);
 }
 
 
