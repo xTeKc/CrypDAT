@@ -40,7 +40,8 @@ function cardano() {
 
 
 function ethereum() {
-
+  let eth_ca: String = 'ETHEREUM_API_KEY';
+  console.log(eth_ca);
 }
 
 
