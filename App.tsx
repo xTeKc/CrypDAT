@@ -34,7 +34,8 @@ function binance() {
 
 
 function cardano() {
-
+  let ada_ca: String = 'CARDANO_API_KEY';
+  console.log(ada_ca);
 }
 
 
