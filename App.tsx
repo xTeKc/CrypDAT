@@ -31,6 +31,7 @@ function binance() {
   let bsc_ca: String = 'BINANCE_API_KEY';
   console.log(bsc_ca);
 }
+binance()
 
 
 function cardano() {
