@@ -87,3 +87,4 @@ function xdai() {
   let xdai_ca: String = 'XDAI_API_KEY';
   console.log(xdai_ca)
 }
+xdai()
