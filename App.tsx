@@ -59,6 +59,7 @@ function harmonyShard() {
   let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
   console.log(hs0_ca);
 }
+harmonyShard()
 
 
 function huobi() {
