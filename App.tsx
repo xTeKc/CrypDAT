@@ -73,6 +73,7 @@ function polygon() {
   let poly_ca: String = 'POLYGON_API_KEY';
   console.log(poly_ca);
 }
+polygon()
 
 
 function solana() {
