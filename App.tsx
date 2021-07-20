@@ -66,6 +66,7 @@ function huobi() {
   let huo_ca: String = 'HUOBI_API_KEY';
   console.log(huo_ca);
 }
+huobi()
 
 
 function polygon() {
