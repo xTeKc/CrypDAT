@@ -80,6 +80,7 @@ function solana() {
   let sol_ca: String = 'SOLANA_API_KEY';
   console.log(sol_ca);
 }
+solana()
 
 
 function xdai() {
