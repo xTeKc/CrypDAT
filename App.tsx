@@ -52,6 +52,7 @@ function fantom() {
   let ftm_ca: String = 'FANTOM_API_KEY';
   console.log(ftm_ca);
 }
+fantom()
 
 
 function harmonyShard() {
