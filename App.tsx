@@ -33,6 +33,7 @@ let ftm_ca: String = 'FANTOM_API_KEY';
 let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
 let huo_ca: String = 'HUOBI_API_KEY';
 let poly_ca: String = 'POLYGON_API_KEY';
+let sol_ca: String = 'SOLANA_API_KEY';
 
 
 function binance() {
@@ -78,7 +79,6 @@ polygon()
 
 
 function solana() {
-  let sol_ca: String = 'SOLANA_API_KEY';
   console.log(sol_ca);
 }
 solana()
