@@ -27,6 +27,8 @@ export default function App() {
 dotenv.config()
 
 let bsc_ca: String = 'BINANCE_API_KEY';
+let ada_ca: String = 'CARDANO_API_KEY';
+
 
 
 function binance() {
@@ -36,7 +38,6 @@ binance()
 
 
 function cardano() {
-  let ada_ca: String = 'CARDANO_API_KEY';
   console.log(ada_ca);
 }
 cardano()
