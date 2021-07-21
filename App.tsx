@@ -26,9 +26,10 @@ export default function App() {
 
 dotenv.config()
 
+let bsc_ca: String = 'BINANCE_API_KEY';
+
 
 function binance() {
-  let bsc_ca: String = 'BINANCE_API_KEY';
   console.log(bsc_ca);
 }
 binance()
