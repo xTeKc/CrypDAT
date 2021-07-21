@@ -29,6 +29,7 @@ dotenv.config()
 let bsc_ca: String = 'BINANCE_API_KEY';
 let ada_ca: String = 'CARDANO_API_KEY';
 let eth_ca: String = 'ETHEREUM_API_KEY';
+let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
 
 
 
@@ -58,7 +59,6 @@ fantom()
 
 
 function harmonyShard() {
-  let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
   console.log(hs0_ca);
 }
 harmonyShard()
