@@ -67,10 +67,10 @@ function harmonyShard(hs0_ca) {
 harmonyShard(hs0_ca)
 
 
-function huobi() {
+function huobi(huo_ca) {
   console.log(huo_ca);
 }
-huobi()
+huobi(huo_ca)
 
 
 function polygon() {
