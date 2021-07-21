@@ -73,10 +73,10 @@ function huobi(huo_ca) {
 huobi(huo_ca)
 
 
-function polygon() {
+function polygon(poly_ca) {
   console.log(poly_ca);
 }
-polygon()
+polygon(poly_ca)
 
 
 function solana() {
