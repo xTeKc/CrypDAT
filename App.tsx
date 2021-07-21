@@ -55,10 +55,10 @@ function ethereum(eth_ca) {
 ethereum(eth_ca)
 
 
-function fantom() {
+function fantom(ftm_ca) {
   console.log(ftm_ca);
 }
-fantom()
+fantom(ftm_ca)
 
 
 function harmonyShard() {
