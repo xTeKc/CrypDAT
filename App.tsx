@@ -32,6 +32,7 @@ let eth_ca: String = 'ETHEREUM_API_KEY';
 let ftm_ca: String = 'FANTOM_API_KEY';
 let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
 let huo_ca: String = 'HUOBI_API_KEY';
+let poly_ca: String = 'POLYGON_API_KEY';
 
 
 function binance() {
@@ -71,7 +72,6 @@ huobi()
 
 
 function polygon() {
-  let poly_ca: String = 'POLYGON_API_KEY';
   console.log(poly_ca);
 }
 polygon()
