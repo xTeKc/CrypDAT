@@ -85,7 +85,7 @@ function solana(sol_ca) {
 solana(sol_ca)
 
 
-function xdai() {
+function xdai(xdai_ca) {
   console.log(xdai_ca)
 }
-xdai()
+xdai(xdai_ca)
