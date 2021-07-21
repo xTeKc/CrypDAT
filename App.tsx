@@ -28,6 +28,7 @@ dotenv.config()
 
 let bsc_ca: String = 'BINANCE_API_KEY';
 let ada_ca: String = 'CARDANO_API_KEY';
+let eth_ca: String = 'ETHEREUM_API_KEY';
 
 
 
@@ -44,7 +45,6 @@ cardano()
 
 
 function ethereum() {
-  let eth_ca: String = 'ETHEREUM_API_KEY';
   console.log(eth_ca);
 }
 ethereum()
