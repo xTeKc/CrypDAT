@@ -49,10 +49,10 @@ function cardano(ada_ca) {
 cardano(ada_ca)
 
 
-function ethereum() {
+function ethereum(eth_ca) {
   console.log(eth_ca);
 }
-ethereum()
+ethereum(eth_ca)
 
 
 function fantom() {
