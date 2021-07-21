@@ -61,10 +61,10 @@ function fantom(ftm_ca) {
 fantom(ftm_ca)
 
 
-function harmonyShard() {
+function harmonyShard(hs0_ca) {
   console.log(hs0_ca);
 }
-harmonyShard()
+harmonyShard(hs0_ca)
 
 
 function huobi() {
