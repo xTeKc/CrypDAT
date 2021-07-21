@@ -34,6 +34,7 @@ let hs0_ca: String = 'HARMONY_SHARD_API_KEY';
 let huo_ca: String = 'HUOBI_API_KEY';
 let poly_ca: String = 'POLYGON_API_KEY';
 let sol_ca: String = 'SOLANA_API_KEY';
+let xdai_ca: String = 'XDAI_API_KEY';
 
 
 function binance() {
@@ -85,7 +86,6 @@ solana()
 
 
 function xdai() {
-  let xdai_ca: String = 'XDAI_API_KEY';
   console.log(xdai_ca)
 }
 xdai()
