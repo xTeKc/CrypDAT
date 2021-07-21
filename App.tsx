@@ -79,10 +79,10 @@ function polygon(poly_ca) {
 polygon(poly_ca)
 
 
-function solana() {
+function solana(sol_ca) {
   console.log(sol_ca);
 }
-solana()
+solana(sol_ca)
 
 
 function xdai() {
