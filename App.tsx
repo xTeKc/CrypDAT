@@ -43,10 +43,10 @@ function binance(bsc_ca) {
 binance(bsc_ca)
 
 
-function cardano() {
+function cardano(ada_ca) {
   console.log(ada_ca);
 }
-cardano()
+cardano(ada_ca)
 
 
 function ethereum() {
