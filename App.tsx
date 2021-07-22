@@ -49,7 +49,7 @@ function cardano(ada_ca: String) {
 cardano(ada_ca)
 
 
-function ethereum(eth_ca) {
+function ethereum(eth_ca: String) {
   console.log(eth_ca);
 }
 ethereum(eth_ca)
