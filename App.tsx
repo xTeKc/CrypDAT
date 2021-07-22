@@ -73,7 +73,7 @@ function huobi(huo_ca: String) {
 huobi(huo_ca)
 
 
-function polygon(poly_ca) {
+function polygon(poly_ca: String) {
   console.log(poly_ca);
 }
 polygon(poly_ca)
