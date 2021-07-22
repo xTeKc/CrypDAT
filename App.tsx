@@ -79,7 +79,7 @@ function polygon(poly_ca: String) {
 polygon(poly_ca)
 
 
-function solana(sol_ca) {
+function solana(sol_ca: String) {
   console.log(sol_ca);
 }
 solana(sol_ca)
