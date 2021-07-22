@@ -67,7 +67,7 @@ function harmonyShard(hs0_ca: String) {
 harmonyShard(hs0_ca)
 
 
-function huobi(huo_ca) {
+function huobi(huo_ca: String) {
   console.log(huo_ca);
 }
 huobi(huo_ca)
