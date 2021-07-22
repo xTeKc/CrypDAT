@@ -37,7 +37,7 @@ let sol_ca: String = 'SOLANA_API_KEY';
 let xdai_ca: String = 'XDAI_API_KEY';
 
 
-function binance(bsc_ca) {
+function binance(bsc_ca: String) {
   console.log(bsc_ca);
 }
 binance(bsc_ca)
