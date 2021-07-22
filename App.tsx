@@ -61,7 +61,7 @@ function fantom(ftm_ca: String) {
 fantom(ftm_ca)
 
 
-function harmonyShard(hs0_ca) {
+function harmonyShard(hs0_ca: String) {
   console.log(hs0_ca);
 }
 harmonyShard(hs0_ca)
