@@ -55,7 +55,7 @@ function ethereum(eth_ca: String) {
 ethereum(eth_ca)
 
 
-function fantom(ftm_ca) {
+function fantom(ftm_ca: String) {
   console.log(ftm_ca);
 }
 fantom(ftm_ca)
