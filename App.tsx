@@ -43,7 +43,7 @@ function binance(bsc_ca: String) {
 binance(bsc_ca)
 
 
-function cardano(ada_ca) {
+function cardano(ada_ca: String) {
   console.log(ada_ca);
 }
 cardano(ada_ca)
