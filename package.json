@@ -35,7 +35,7 @@
     "react-native-screens": "~3.4.0",
     "react-native-web": "~0.13.12",
     "ts-loader": "^9.2.3",
-    "webpack": "^5.44.0",
+    "webpack": "^5.51.1",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
   },
